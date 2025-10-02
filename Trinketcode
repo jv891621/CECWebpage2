@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Interesting Facts about Me</title>
+</head>
+<body>
+
+<h1>About Me</h1>
+<h3>3 Interesting Facts</h3>
+<p>1. I can both crochet and knit;I learned over the summer and have worked on a couple projects so far.</p>
+<img src="crochetknit.jpeg">
+<p>2. I enjoy baking, specifically deserts or almost any type of pastries. </p>
+<img src="baking.jpeg">
+<p>3. After playing for about a year, I mostly know my way around playing a guitar.</p>
+<img src="guitar.jpeg">
+
+</body>
+</html>
